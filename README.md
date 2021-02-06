@@ -1,0 +1,2 @@
+# Faks
+Datoteke
